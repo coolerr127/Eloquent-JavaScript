@@ -1,4 +1,4 @@
-// Построение треугольника в цикле
+// looping a triangle
 let str = ''
 while (str.length < 7) {
 	str += '#'
@@ -30,7 +30,7 @@ for (let i = 1; i < 100; i++) {
 // 	console.log(output || n)
 // }
 
-// Шахматная доска
+// chessboard
 const size = 10
 let hash = true
 let test = false
